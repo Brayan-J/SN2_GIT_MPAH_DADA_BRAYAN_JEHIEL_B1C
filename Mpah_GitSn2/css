@@ -1,0 +1,12 @@
+body {
+    font-family: Arial, sans-serif;
+    color: #333;
+}
+h1 {
+    color: #0066cc;
+}
+@media (max-width: 600px) {
+    body {
+        font-size: 14px;
+    }
+}
